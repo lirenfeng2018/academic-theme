@@ -1,9 +1,9 @@
 ---
-title: Display Jupyter Notebooks with Academic
+title:Jupyter Notebooks学习
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
-  - admin
+  - 作者
 tags: []
 categories: []
 projects: []
