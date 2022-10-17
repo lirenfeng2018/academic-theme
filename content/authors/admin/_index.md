@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: 中国
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
