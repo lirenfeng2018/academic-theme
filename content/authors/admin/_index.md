@@ -14,16 +14,16 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国公民
+  - name: 公民
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio:添加内容.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- animal
+#- animal
+#- animal
 
 #education:
 #  courses:
