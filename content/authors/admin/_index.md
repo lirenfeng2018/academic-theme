@@ -6,7 +6,7 @@ title: Seawind
 superuser: true
 
 # Role/position
-role: 数据开发学习者
+role: 学习者
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国公民
+  - name: 公民
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
