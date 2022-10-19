@@ -6,7 +6,7 @@ title: Seawind
 superuser: true
 
 # Role/position
-role: 数据开发学习者
+role: 学习者
 
 # Status emoji
 status:
